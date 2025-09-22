@@ -1,8 +1,8 @@
-# Quiz UNISA AVC 1.1a - Saúde da Mulher
+# Quiz Médico - Saúde da Mulher
 
 ## 📱 Progressive Web App (PWA)
 
-Aplicação de quiz interativa para estudo de ginecologia e obstetrícia, desenvolvida especialmente para estudantes da UNISA. Funciona 100% offline após a primeira visita.
+Aplicação de quiz interativa para estudo de ginecologia e obstetrícia, desenvolvida para estudantes de medicina. Funciona 100% offline após a primeira visita.
 
 ## ✨ Funcionalidades
 
@@ -26,7 +26,7 @@ Aplicação de quiz interativa para estudo de ginecologia e obstetrícia, desenv
 
 ## 📚 Conteúdo
 
-20 questões oficiais do núcleo de Saúde da Mulher - UNISA, abordando:
+20 questões do núcleo de Saúde da Mulher, abordando:
 - Pré-natal e acompanhamento gestacional
 - Fisiologia do ciclo menstrual
 - Puberdade e desenvolvimento feminino
@@ -116,7 +116,7 @@ A aplicação implementa princípios baseados em evidências:
 
 ## 📄 Licença
 
-Desenvolvido para fins educacionais - UNISA 2025
+Desenvolvido para fins educacionais - 2025
 
 ## 👥 Contribuições
 
@@ -124,4 +124,4 @@ Sugestões e melhorias são bem-vindas! Abra uma issue ou envie um pull request.
 
 ---
 
-**Desenvolvido com 💙 para estudantes de medicina da UNISA**
+**Desenvolvido com 💙 para estudantes de medicina**

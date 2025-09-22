@@ -1,7 +1,7 @@
-// Service Worker - Quiz UNISA AVC 1.1a
+// Service Worker - Quiz Médico
 // Versão com cache offline completo
 
-const CACHE_NAME = 'quiz-unisa-v1.0.0';
+const CACHE_NAME = 'quiz-medico-v1.0.0';
 const urlsToCache = [
   './',
   './index.html',

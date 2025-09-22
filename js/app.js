@@ -1,4 +1,4 @@
-// ===== Quiz App - UNISA AVC 1.1a =====
+// ===== Quiz App - Saúde da Mulher =====
 // Versão unificada com melhores práticas e funcionalidades completas
 
 // ===== Estado Global =====
