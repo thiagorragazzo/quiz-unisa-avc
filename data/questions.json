@@ -1,0 +1,848 @@
+{
+  "version": "1.0.0",
+  "generated_at": "2025-09-21T20:14:27.552549Z",
+  "questions": [
+    {
+      "id": "V3-Q1",
+      "versao": "V3",
+      "enunciado": "Em relação ao acompanhamento pré‑natal normal, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O exame citopatológico (Papanicolaou) é contraindicado durante toda a gestação devido ao risco de sangramento."
+        },
+        {
+          "id": "B",
+          "texto": "O pré‑natal deve ser iniciado preferencialmente após o primeiro trimestre, quando a organogênese já está completa."
+        },
+        {
+          "id": "C",
+          "texto": "A periodicidade das consultas deve ser mensal até 28 semanas, quinzenal entre 28 e 36 semanas e semanal após 36 semanas."
+        },
+        {
+          "id": "D",
+          "texto": "A avaliação do estado nutricional materno não é essencial, desde que a gestante mantenha uma alimentação regular."
+        }
+      ],
+      "correta": "C",
+      "tags": [
+        "pré‑natal",
+        "periodicidade"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Rotina clássica: M até 28s, Q 28–36s, S após 36s.",
+      "explicacao_completa": "Diretrizes de pré‑natal preconizam consultas mensais até 28 semanas, quinzenais entre 28–36, e semanais após 36 por aumento do risco materno‑fetal neste período.",
+      "core": true
+    },
+    {
+      "id": "V3-Q2",
+      "versao": "V3",
+      "enunciado": "O ciclo menstrual caracteriza‑se por uma série de eventos no eixo hipotálamo‑hipófise‑ovário. É correto afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O GnRH age sobre a neuro‑hipófise estimulando a secreção de gonadotrofinas."
+        },
+        {
+          "id": "B",
+          "texto": "O GnRH é um decapeptídeo secretado pelo núcleo arqueado situado no hipotálamo."
+        },
+        {
+          "id": "C",
+          "texto": "A inibina é um peptídeo produzido no ovário pelas células da teca e está ligada à SHBG."
+        },
+        {
+          "id": "D",
+          "texto": "A hipófise posterior produz FSH, LH e TSH e cada hormônio é produzido por células diferentes."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "eixo HHO",
+        "GnRH"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "GnRH é decapeptídeo hipotalâmico (núcleo arqueado) que estimula adeno‑hipófise.",
+      "explicacao_completa": "GnRH liberado por neurônios hipotalâmicos (núcleo arqueado) em pulsos estimula a adeno‑hipófise (não a neuro‑hipófise) a secretar FSH/LH. Inibina é produzida por células da granulosa e inibe FSH.",
+      "core": true
+    },
+    {
+      "id": "V3-Q3",
+      "versao": "V3",
+      "enunciado": "Quando se investiga queixa de sangramento genital, quais parâmetros clínicos essenciais devem ser pesquisados?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas a quantidade do sangramento e sua relação com o ciclo menstrual."
+        },
+        {
+          "id": "B",
+          "texto": "Exclusivamente a presença de dor associada e sintomas sistêmicos."
+        },
+        {
+          "id": "C",
+          "texto": "Periodicidade, duração, intensidade, quantidade e predomínio do sangramento."
+        },
+        {
+          "id": "D",
+          "texto": "Somente a data da última menstruação e o histórico de uso de contraceptivos."
+        }
+      ],
+      "correta": "C",
+      "tags": [
+        "anamnese",
+        "sangramento uterino anormal"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": false,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "A abordagem é multidimensional (5 eixos).",
+      "explicacao_completa": "Para classificar o sangramento e orientar a investigação requer caracterizar tempo (periodicidade/duração), volume (intensidade/quantidade) e padrão (predomínio), além de sintomas associados.",
+      "core": true
+    },
+    {
+      "id": "V3-Q4",
+      "versao": "V3",
+      "enunciado": "Dentre avaliações realizadas no pré‑natal de rotina em gestação normal, a MAIS IMPORTANTE na primeira consulta é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Peso materno."
+        },
+        {
+          "id": "B",
+          "texto": "Determinação da idade gestacional."
+        },
+        {
+          "id": "C",
+          "texto": "Determinação da pressão arterial."
+        },
+        {
+          "id": "D",
+          "texto": "Medida de rotina da altura do fundo uterino."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "pré‑natal",
+        "primeira consulta"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Datação correta guia toda a assistência.",
+      "explicacao_completa": "A determinação precoce e acurada da idade gestacional (pela DUM corroborada por USG precoce) impacta decisões de rastreio, viabilidade, interpretação de crescimento e momento do parto.",
+      "core": true
+    },
+    {
+      "id": "V3-Q5",
+      "versao": "V3",
+      "enunciado": "“O ginecologista é o clínico da mulher…”. Qual a doença mais prevalente e não neoplásica, com alto risco de morbidade, e que pode ser prevenida na fase adulta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Osteoporose"
+        },
+        {
+          "id": "B",
+          "texto": "Sarcopenia"
+        },
+        {
+          "id": "C",
+          "texto": "Alzheimer"
+        },
+        {
+          "id": "D",
+          "texto": "Esclerose Múltipla"
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "prevenção",
+        "saúde da mulher"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": false,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Osteoporose é prevalente e prevenível por medidas ao longo da vida.",
+      "explicacao_completa": "A massa óssea máxima e o declínio pós‑menopausa tornam a osteoporose alvo de prevenção com estilo de vida, cálcio/vitamina D e farmacoterapia quando indicada.",
+      "core": true
+    },
+    {
+      "id": "V3-Q6",
+      "versao": "V3",
+      "enunciado": "Sobre suplementação com ácido fólico no pré‑natal, assinale a correta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Suplementação universal deve começar o quanto antes (idealmente já no planejamento 3–4 meses antes), pois previne defeitos do tubo neural."
+        },
+        {
+          "id": "B",
+          "texto": "Por ser vitamina B9 das folhas, ofertar apenas a quem não consome frutas e verduras."
+        },
+        {
+          "id": "C",
+          "texto": "Universal após 12 semanas para reduzir ausência de osso nasal e TN aumentada."
+        },
+        {
+          "id": "D",
+          "texto": "Ofertar apenas a gestantes com dosagem < 3 ng/mL nos exames de rotina."
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "pré‑natal",
+        "ácido fólico"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Prevenção periconcepcional de DTN requer início antes da organogênese.",
+      "explicacao_completa": "Defeitos do tubo neural ocorrem nas primeiras semanas; por isso a suplementação universal deve ser iniciada no período periconcepcional.",
+      "core": true
+    },
+    {
+      "id": "V3-Q7",
+      "versao": "V3",
+      "enunciado": "Mudanças hormonais durante a fase lútea do ciclo menstrual:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Estabilidade do estrogênio e aumento do LH."
+        },
+        {
+          "id": "B",
+          "texto": "Diminuição da progesterona e aumento do LH."
+        },
+        {
+          "id": "C",
+          "texto": "Aumento da progesterona e diminuição do FSH."
+        },
+        {
+          "id": "D",
+          "texto": "Aumento da progesterona e diminuição do estrogênio."
+        }
+      ],
+      "correta": "D",
+      "tags": [
+        "ciclo menstrual",
+        "fase lútea"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Lútea: predomínio de progesterona e queda de estrogênio e gonadotrofinas.",
+      "explicacao_completa": "Após ovulação, corpo lúteo secreta progesterona. LH/FSH caem pelo feedback; estrogênio tende a reduzir em relação ao pico ovulatório.",
+      "core": true
+    },
+    {
+      "id": "V3-Q8",
+      "versao": "V3",
+      "enunciado": "Sobre as fases do ciclo menstrual, é correto afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A fase lútea é caracterizada pela formação do corpo lúteo após a ovulação, que secreta principalmente progesterona."
+        },
+        {
+          "id": "B",
+          "texto": "A fase folicular tem duração fixa de 14 dias em todas as mulheres."
+        },
+        {
+          "id": "C",
+          "texto": "O sangramento menstrual ocorre durante a fase proliferativa do endométrio."
+        },
+        {
+          "id": "D",
+          "texto": "A ovulação ocorre no início do ciclo, entre o 2º e o 5º dia."
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "ciclo menstrual",
+        "fases"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": false,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Definição da fase lútea inclui corpo lúteo e alta progesterona.",
+      "explicacao_completa": "A fase folicular é variável; o sangramento ocorre na fase menstrual; a ovulação ocorre no meio do ciclo em média.",
+      "core": true
+    },
+    {
+      "id": "V3-Q9",
+      "versao": "V3",
+      "enunciado": "Sobre as mudanças ao nível do endométrio (ciclo endometrial), assinale a alternativa certa:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A fase secretora coincide com o momento em que o endométrio está mais espesso."
+        },
+        {
+          "id": "B",
+          "texto": "O início da fase proliferativa coincide com o momento da ovulação."
+        },
+        {
+          "id": "C",
+          "texto": "A fase proliferativa coincide com os últimos dias do ciclo menstrual."
+        },
+        {
+          "id": "D",
+          "texto": "A fase proliferativa é a mais favorável para fixação e sustento do embrião."
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "endométrio",
+        "ciclo endometrial"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Pós‑ovulação (fase secretora) o endométrio torna‑se máximo e secretor.",
+      "explicacao_completa": "A progesterona promove diferenciação secretora e máximo espessamento, preparando para implantação; a fase proliferativa ocorre antes e não é o ambiente ideal de implantação.",
+      "core": true
+    },
+    {
+      "id": "V3-Q10",
+      "versao": "V3",
+      "enunciado": "Adolescente 12a6m, broto mamário aos 10a, pelos pubianos aos 10a8m, M3P3, sem menarca. É correto afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Há inversão anormal pois pubarca deve preceder telarca em 90% dos casos."
+        },
+        {
+          "id": "B",
+          "texto": "O desenvolvimento está normal para a idade, seguindo telarca → pubarca → menarca."
+        },
+        {
+          "id": "C",
+          "texto": "Sugere puberdade precoce pois telarca antes dos 11 anos exige investigação."
+        },
+        {
+          "id": "D",
+          "texto": "É atraso puberal pois menarca deveria ocorrer logo após a telarca."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "puberdade",
+        "Tanner"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Sequência usual: telarca → pubarca → menarca em 2–3 anos.",
+      "explicacao_completa": "A telarca por volta de 10–11 anos é comum; menarca espera‑se em média 12–13, após estágios M3–M4.",
+      "core": true
+    },
+    {
+      "id": "V3-Q11",
+      "versao": "V3",
+      "enunciado": "Sobre produção hormonal no ciclo menstrual, assinale a correta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Progesterona predomina durante toda a fase folicular."
+        },
+        {
+          "id": "B",
+          "texto": "FSH causa ovulação por ruptura do folículo maduro."
+        },
+        {
+          "id": "C",
+          "texto": "LH inibe a formação do corpo lúteo após a ovulação."
+        },
+        {
+          "id": "D",
+          "texto": "Células da granulosa produzem estrógeno a partir de andrógenos das células da teca."
+        }
+      ],
+      "correta": "D",
+      "tags": [
+        "fisiologia ovariana",
+        "granulosa/teca"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Modelo das 2 células/2 gonadotropos: teca → andrógenos; granulosa → estrógenos.",
+      "explicacao_completa": "FSH estimula granulosa (aromatase); LH atua na teca (androgênios) e no pico ovulatório.",
+      "core": true
+    },
+    {
+      "id": "V3-Q12",
+      "versao": "V3",
+      "enunciado": "Considerando saúde óssea na adolescência, assinale a correta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A adolescência é crítica para acumular 40–60% do pico de massa óssea."
+        },
+        {
+          "id": "B",
+          "texto": "Cálcio, vitamina D e atividade física têm menor impacto que genética."
+        },
+        {
+          "id": "C",
+          "texto": "Puberdade atrasada associa‑se a maior diâmetro periosteal e densidade mais baixa."
+        },
+        {
+          "id": "D",
+          "texto": "Pico de massa óssea é predominantemente pré‑puberal e pouco influenciado por hormônios sexuais."
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "saúde óssea",
+        "adolescência"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Janela crítica de ganho de massa óssea ocorre na adolescência.",
+      "explicacao_completa": "Intervenções de estilo de vida e exposição hormonal puberal modulam aquisição de massa óssea.",
+      "core": true
+    },
+    {
+      "id": "V3-Q13",
+      "versao": "V3",
+      "enunciado": "Sobre puberdade feminina, qual afirmação é verdadeira?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Mudanças hormonais não afetam o desenvolvimento emocional das adolescentes."
+        },
+        {
+          "id": "B",
+          "texto": "A puberdade geralmente começa entre 6 e 8 anos de idade."
+        },
+        {
+          "id": "C",
+          "texto": "O estirão acelera na puberdade e é mais significativo após o início da menstruação."
+        },
+        {
+          "id": "D",
+          "texto": "A menarca ocorre tipicamente entre 11 e 14 anos."
+        }
+      ],
+      "correta": "D",
+      "tags": [
+        "puberdade",
+        "menarca"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": false,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Faixa típica da menarca 11–14 anos.",
+      "explicacao_completa": "As demais opções são incorretas: puberdade usual não se inicia aos 6–8, hormônios afetam emoção e o pico de crescimento antecede logo a menarca.",
+      "core": true
+    },
+    {
+      "id": "V3-Q14",
+      "versao": "V3",
+      "enunciado": "Esfregaços de Papanicolaou do cérvix durante gestação normal:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Devem entrar na rotina apenas a partir do 2º trimestre pelo risco de abortamento."
+        },
+        {
+          "id": "B",
+          "texto": "Indicados apenas para pacientes com riscos clinicamente percebidos."
+        },
+        {
+          "id": "C",
+          "texto": "Devem compor a rotina do pré‑natal, independentemente da idade gestacional."
+        },
+        {
+          "id": "D",
+          "texto": "São difíceis de interpretar e contraindicados durante toda a gestação."
+        }
+      ],
+      "correta": "C",
+      "tags": [
+        "pré‑natal",
+        "rastreamento cervical"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Gestação não contraindica citologia quando indicada por rastreio.",
+      "explicacao_completa": "Coleta pode ser realizada com técnica adequada; o resultado interpreta‑se considerando mudanças gestacionais.",
+      "core": true
+    },
+    {
+      "id": "V3-Q15",
+      "versao": "V3",
+      "enunciado": "Sobre avaliação ultrassonográfica no pré‑natal normal, assinale a correta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Morfológico de 2º trimestre entre 20–24 semanas, avaliação detalhada da anatomia fetal."
+        },
+        {
+          "id": "B",
+          "texto": "USG de 1º trimestre (6–9 semanas) tem como principal objetivo rastrear anomalias cromossômicas."
+        },
+        {
+          "id": "C",
+          "texto": "USG de 3º trimestre (32–34 semanas) serve principalmente para confirmar sexo e posição."
+        },
+        {
+          "id": "D",
+          "texto": "Translucência nucal não é mais recomendada como rastreamento por baixa sensibilidade."
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "ultrassonografia obstétrica",
+        "morfológico"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Janela clássica do morfológico é 20–24s para biometria e anatomia.",
+      "explicacao_completa": "A translucência nucal é rastreamento no 1º tri; 3º tri tem outras indicações.",
+      "core": true
+    },
+    {
+      "id": "V3-Q16",
+      "versao": "V3",
+      "enunciado": "O pico de estirão de crescimento estatural ocorre:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Estádio de mama M4."
+        },
+        {
+          "id": "B",
+          "texto": "Estádio de mama M3."
+        },
+        {
+          "id": "C",
+          "texto": "Estádio de mama M2 (telarca)."
+        },
+        {
+          "id": "D",
+          "texto": "Estádio de adrenarca P4."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "puberdade",
+        "Tanner"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Pico de crescimento próximo a M3.",
+      "explicacao_completa": "O estirão feminino tende a ocorrer entre M2–M3, com pico em M3 e antecedendo a menarca.",
+      "core": true
+    },
+    {
+      "id": "V3-Q17",
+      "versao": "V3",
+      "enunciado": "Segundo o conteúdo apresentado, qual afirmação representa corretamente o papel do ginecologista na saúde da mulher?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ser um “clínico da mulher”, garantindo bem‑estar físico, emocional, psíquico, espiritual e familiar."
+        },
+        {
+          "id": "B",
+          "texto": "Atender apenas mulheres em idade reprodutiva, encaminhando as demais."
+        },
+        {
+          "id": "C",
+          "texto": "Focar primariamente na saúde reprodutiva e deixar prevenção para outros."
+        },
+        {
+          "id": "D",
+          "texto": "Atuar exclusivamente no tratamento de doenças ginecológicas já estabelecidas."
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "atenção integral",
+        "ginecologia"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": false,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Atenção integral vai além da reprodução.",
+      "explicacao_completa": "O escopo inclui prevenção, promoção, rastreamento e cuidado longitudinal em todas as idades.",
+      "core": true
+    },
+    {
+      "id": "V3-Q18",
+      "versao": "V3",
+      "enunciado": "O pré‑natal completo inclui consultas e exames para monitorar a saúde da gestante e do bebê. Assinale a correta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Gestante deve evitar procedimentos odontológicos pois anestésicos, antibióticos e raio‑X podem causar teratogenia."
+        },
+        {
+          "id": "B",
+          "texto": "Devido à complexidade, o pré‑natal não considera participação de enfermeira, fisioterapeuta ou dentista."
+        },
+        {
+          "id": "C",
+          "texto": "[Texto da alternativa C não legível na imagem fornecida.]"
+        },
+        {
+          "id": "D",
+          "texto": "Gestante pode realizar procedimentos odontológicos; deve‑se incentivar saúde oral, pois está associada a parto pré‑termo e restrição de crescimento fetal."
+        }
+      ],
+      "correta": "D",
+      "tags": [
+        "pré‑natal",
+        "saúde bucal",
+        "cuidado multiprofissional"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": true,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Saúde oral integra o pré‑natal e não é contraindicada.",
+      "explicacao_completa": "Cuidados odontológicos com protocolos adequados são seguros; doença periodontal associa‑se a desfechos adversos. Atualizar alternativa C quando imagem legível for enviada.",
+      "core": true
+    },
+    {
+      "id": "V3-Q19",
+      "versao": "V3",
+      "enunciado": "Características hormonais da fase folicular do ciclo incluem:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pulsos de GnRH frequentes, progesterona alta e estrogênio decrescente."
+        },
+        {
+          "id": "B",
+          "texto": "Pulsos de GnRH frequentes, progesterona baixa e estrogênio crescente."
+        },
+        {
+          "id": "C",
+          "texto": "Pulsos de GnRH raros, progesterona alta e estrogênio decrescente."
+        },
+        {
+          "id": "D",
+          "texto": "Pulsos de GnRH raros, progesterona baixa e estrogênio crescente."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "ciclo menstrual",
+        "fase folicular"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Folicular: estrógeno ascendente e progesterona baixa com pulsos frequentes.",
+      "explicacao_completa": "Na fase folicular há aumento progressivo de estradiol e baixa progesterona; frequência de pulsos de GnRH aumenta até o pico ovulatório.",
+      "core": true
+    },
+    {
+      "id": "V3-Q20",
+      "versao": "V3",
+      "enunciado": "HEWA: adolescente 14a6m, menarca aos 13, três episódios de sangramento em 12 meses, M4P4, hímen íntegro. Conduta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Encaminhar ao endocrinologista por atraso puberal associado à irregularidade."
+        },
+        {
+          "id": "B",
+          "texto": "Solicitar cartão de vacinas e checar vacina do HPV, além de tranquilizar sobre irregularidade normal nesta fase."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar TSH e FSH pois a principal causa de irregularidade menstrual na infância é hipotireoidismo."
+        },
+        {
+          "id": "D",
+          "texto": "Solicitar perfil androgênio (testosterona total e livre) pois 15% iniciam SOP nessa fase."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "adolescente",
+        "irregularidade menstrual",
+        "conduta"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Irregularidade no 1º–2º ano pós‑menarca é comum; educação e prevenção são prioridade.",
+      "explicacao_completa": "Sem sinais de alarme, orientar padrão anovulatório da adolescência, acompanhar, reforçar vacinação HPV e sinais que motivam retorno.",
+      "core": true
+    },
+    {
+      "id": "V1-Q1",
+      "versao": "V1",
+      "enunciado": "“O ginecologista é o clínico geral da mulher…” Diante disso, qual doença mais prevalente, não neoplásica, de alto risco de morbidade e prevenível na vida adulta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Osteoporose"
+        },
+        {
+          "id": "B",
+          "texto": "Esclerose Múltipla"
+        },
+        {
+          "id": "C",
+          "texto": "Alzheimer"
+        },
+        {
+          "id": "D",
+          "texto": "Sarcopenia"
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "prevenção",
+        "saúde da mulher"
+      ],
+      "nivel": "fácil",
+      "exige_tecnico": false,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Idem V3-Q5.",
+      "explicacao_completa": "Idem V3-Q5.",
+      "core": false
+    },
+    {
+      "id": "V1-Q2",
+      "versao": "V1",
+      "enunciado": "Adolescente 12a6m, broto mamário aos 10a, pelos aos 10a8m, M3P3, sem menarca. É correto afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Há inversão anormal dos eventos puberais."
+        },
+        {
+          "id": "B",
+          "texto": "Desenvolvimento puberal normal para a idade; sequência típica telarca→pubarca→menarca."
+        },
+        {
+          "id": "C",
+          "texto": "Caso de atraso puberal, menarca deveria ocorrer logo após broto mamário."
+        },
+        {
+          "id": "D",
+          "texto": "Sugere puberdade precoce, telarca antes dos 11 anos exige investigação."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "puberdade",
+        "Tanner"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Idem V3-Q10.",
+      "explicacao_completa": "Idem V3-Q10.",
+      "core": false
+    },
+    {
+      "id": "V1-Q6",
+      "versao": "V1",
+      "enunciado": "Qual opção representa corretamente as mudanças hormonais na fase lútea do ciclo menstrual?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Estabilidade de estrogênio e aumento de LH."
+        },
+        {
+          "id": "B",
+          "texto": "Aumento de progesterona e diminuição de estrogênio."
+        },
+        {
+          "id": "C",
+          "texto": "Aumento de estrogênio e diminuição de progesterona."
+        },
+        {
+          "id": "D",
+          "texto": "Diminuição de progesterona e aumento de FSH."
+        }
+      ],
+      "correta": "B",
+      "tags": [
+        "ciclo menstrual",
+        "fase lútea"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": false,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Idem V3-Q7 (variação de redação).",
+      "explicacao_completa": "Idem V3-Q7.",
+      "core": false
+    },
+    {
+      "id": "V1-Q7",
+      "versao": "V1",
+      "enunciado": "HEWA: mãe traz filha por irregularidade menstrual, 14a6m, três episódios em 12 meses, menarca aos 13, M4P4, hímen íntegro. Conduta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Checar vacinas, HPV e tranquilizar sobre irregularidade desta fase."
+        },
+        {
+          "id": "B",
+          "texto": "Perfil androgênio pois 15% manifestam SOP."
+        },
+        {
+          "id": "C",
+          "texto": "Encaminhar ao endocrinologista por atraso puberal."
+        },
+        {
+          "id": "D",
+          "texto": "Solicitar TSH e FSH pois hipotireoidismo é principal causa na infância."
+        }
+      ],
+      "correta": "A",
+      "tags": [
+        "adolescente",
+        "irregularidade menstrual"
+      ],
+      "nivel": "média",
+      "exige_tecnico": true,
+      "inferivel": true,
+      "tipo_cognitivo": "memorizacao",
+      "explicacao_min": "Idem V3-Q20.",
+      "explicacao_completa": "Idem V3-Q20.",
+      "core": false
+    }
+  ]
+}
